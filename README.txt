@@ -1,3 +1,5 @@
+https://github.com/JonaDeSheep/Rocket-Class
+
 Class Description: The purpose of the class “Rocket” is to perform these specific tasks that involve the interaction with a rocket: Refill the fuel, burn the fuel, calculate and return the Thrust-to-Weight ratio (TWR), calculate and return the fuel burning time, and return the current fuel level. These functions are important as they all return statistical results that would allow scientists to determine how to make their rocket fly efficiently without much room for error.
 
 
